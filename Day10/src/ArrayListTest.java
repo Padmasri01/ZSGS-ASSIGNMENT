@@ -49,10 +49,8 @@ public class ArrayListTest {
 
         System.out.println("Checking specific color: "+colors.contains("pink"));
 
-
         Collections.sort(colors);
         System.out.println("After sorting: "+colors);
-
 
         System.out.println(clr);
 
